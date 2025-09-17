@@ -19,4 +19,5 @@ TODO
 1. Clone the repository
 2. Run `npm install` to install dependencies
 3. Run `npm run dev` to start the development server
-4. Open your browser and navigate to `http://localhost:5173` to see the app in action!
+4. Go to `api` folder and run `npm install` and `npm run dev` to start the mock API server
+5. Open your browser and navigate to `http://localhost:5173` to see the app in action!
